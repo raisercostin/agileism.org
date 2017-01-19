@@ -1,5 +1,4 @@
 ---
-slug: article1
 date: 2012-01-29 15:34:01
 title: What is the best monetary system invented til now?
 author: raisercostin<raisercostin@gmail.com>

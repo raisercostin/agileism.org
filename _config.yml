@@ -25,7 +25,7 @@ exclude:
   - deprecated/
 
 disqus:
-    shortname: 
+    shortname: agileism
 
 permalink: /:year/:month/:day/:title
 

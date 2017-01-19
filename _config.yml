@@ -22,6 +22,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - "**/*.mm"
+  - deprecated/
 
 disqus:
     shortname: 

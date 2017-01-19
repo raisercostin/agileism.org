@@ -1,5 +1,4 @@
 ---
-slug: article3
 date: 2012-01-29 15:48:11
 title: How can a city reduce to zero the number of stray dogs on the streets?
 author: raisercostin<raisercostin@gmail.com>

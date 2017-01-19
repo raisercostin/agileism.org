@@ -19,10 +19,11 @@ do
 		article=$myslug
 		echo "mv $i $article/$mydate-$toslug.md"
 		mkdir $article
-		mv $i $article/$mydate-$toslug.md
+		mv $i $article/$mydate-$article.md
 	else
 		article=$toslug
 		echo "mv $i $article/$mydate-$type-$myslug.md"
-		mv $i $article/$mydate-$type-$myslug.md
+		mv $i $article/$type-$myslug.md
+		echo "{% include_relative $type-$myslug.md %}" | tee -a $article/*-$article.md
 	fi
 done

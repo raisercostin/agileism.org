@@ -1,5 +1,4 @@
 ---
-slug: article19
 date: 2012-03-11 21:30:33
 title: Normal people should own guns?
 author: raisercostin<raisercostin@gmail.com>

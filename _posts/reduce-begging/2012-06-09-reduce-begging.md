@@ -1,5 +1,4 @@
 ---
-slug: article23
 date: 2012-06-09 15:59:44
 title: How begging can be reduced?
 author: raisercostin<raisercostin@gmail.com>

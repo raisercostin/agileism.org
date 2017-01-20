@@ -1,5 +1,4 @@
 ---
-slug: article18
 date: 2012-03-11 08:54:26
 title: What solutions exists to the "Tragedy of the commons"?
 author: raisercostin<raisercostin@gmail.com>

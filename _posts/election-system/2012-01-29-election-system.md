@@ -1,5 +1,4 @@
 ---
-slug: article4
 date: 2012-01-29 18:20:22
 title: What is the best election system that we have till now?
 author: raisercostin<raisercostin@gmail.com>

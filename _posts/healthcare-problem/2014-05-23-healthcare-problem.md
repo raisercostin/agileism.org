@@ -1,5 +1,4 @@
 ---
-slug: article49
 date: 2014-05-23 11:32:54
 title: Healthcare problem
 author: raisercostin<raisercostin@gmail.com>

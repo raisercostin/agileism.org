@@ -1,5 +1,4 @@
 ---
-slug: article37
 date: 2013-11-07 03:24:54
 title: How to solve the problem of street junctions (intersections) blocked by cars
 author: SorinPostelnicu<sorin_postelnicu@yahoo.com>

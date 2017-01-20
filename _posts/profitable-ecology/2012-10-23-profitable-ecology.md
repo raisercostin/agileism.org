@@ -1,5 +1,4 @@
 ---
-slug: article30
 date: 2012-10-23 05:01:58
 title: How to make the protection of the environment a profitable economic activity?
 author: SorinPostelnicu<sorin_postelnicu@yahoo.com>

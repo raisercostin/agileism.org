@@ -1,5 +1,4 @@
 ---
-slug: article21
 date: 2012-06-08 14:38:33
 title: How to clean the city of illegal parking
 author: raisercostin<raisercostin@gmail.com>

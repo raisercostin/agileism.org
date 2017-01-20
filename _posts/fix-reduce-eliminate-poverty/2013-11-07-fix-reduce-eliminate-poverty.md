@@ -1,5 +1,4 @@
 ---
-slug: article40
 date: 2013-11-07 08:28:43
 title: How to reduce or eliminate poverty?
 author: SorinPostelnicu<sorin_postelnicu@yahoo.com>

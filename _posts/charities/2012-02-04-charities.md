@@ -1,5 +1,4 @@
 ---
-slug: article12
 date: 2012-02-04 16:17:45
 title: How to do to have a good charity program?
 author: raisercostin<raisercostin@gmail.com>

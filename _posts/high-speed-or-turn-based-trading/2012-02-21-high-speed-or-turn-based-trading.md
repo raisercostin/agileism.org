@@ -1,5 +1,4 @@
 ---
-slug: article16
 date: 2012-02-21 09:08:21
 title: Should we allow high-speed-trading or should we move to a turn based trading?
 author: raisercostin<raisercostin@gmail.com>

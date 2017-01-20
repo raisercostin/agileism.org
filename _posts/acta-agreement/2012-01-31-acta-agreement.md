@@ -1,5 +1,4 @@
 ---
-slug: article8
 date: 2012-01-31 07:10:03
 title: What do you think about ACTA? Do you think this agreement is necessary for our society?
 author: Rubi<zm_lavinia@yahoo.com>
